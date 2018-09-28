@@ -714,7 +714,7 @@ of.options.AUTOSAVE_TICKS.tooltip.1=Autospeicherintervall
 of.options.AUTOSAVE_TICKS.tooltip.2=Normales Autospeicherintervall (2s) ist NICHT EMPFOHLEN.
 of.options.AUTOSAVE_TICKS.tooltip.3=Autospeichern verursacht den berühmten Lag des Todes.
 
-of.options.SCREENSHOT_SIZE=Screenshot-Auflösung
+of.options.SCREENSHOT_SIZE=Screenshot-Größe
 of.options.SCREENSHOT_SIZE.tooltip.1=Screenshot-Auflösung
 of.options.SCREENSHOT_SIZE.tooltip.2=  Standard - Standard-Screenshot-Auflösung
 of.options.SCREENSHOT_SIZE.tooltip.3=  2x-4x - Benutze andere Screenshot-Auflösung
